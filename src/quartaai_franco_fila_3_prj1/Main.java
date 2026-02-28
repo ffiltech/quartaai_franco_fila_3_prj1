@@ -5,6 +5,7 @@ public class Main {
 	public static void main(String[] args) {
 System.out.println("Alfarano Valentino");
 System.out.println("Palma Giorgio");
+System.out.println("Manieri Vincenzo");
 	}
 
 }
